@@ -1,2 +1,7 @@
-# GenPred_2
-Genomic Prediction Of Binary Traits Using Machine Learning Methods
+
+
+## Binary Traits : Machine Learning Mehthods
+**Univariate Regression**
+----------------------------------------------------------------
+- [SMR](https://htmlpreview.github.io/?https://github.com/Mehdimomen/GenPred_1/blob/master/HTML/GWAS_Singlemarker.html)
+  
