@@ -3,5 +3,6 @@
 ## Binary Traits : Machine Learning Methods
 **Univariate Regression**
 ----------------------------------------------------------------
-- [SMR](https://htmlpreview.github.io/?https://github.com/Mehdimomen/GenPred_1/blob/master/HTML/GWAS_Singlemarker.html)
+- [Binary trait](https://htmlpreview.github.io/?https://github.com/Mehdimomen/GenPred_2/blob/master/ACL_Genomic_Prediction.html)
+
   
